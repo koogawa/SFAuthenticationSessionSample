@@ -3,7 +3,7 @@
 //  SFAuthenticationSessionSample
 //
 //  Created by ogawa_kousuke on 2017/07/14.
-//  Copyright © 2017年 aratana inc. All rights reserved.
+//  Copyright © 2017年 koogawa All rights reserved.
 //
 
 import UIKit
